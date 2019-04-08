@@ -33,7 +33,9 @@
 
 ## 协议
 
-[MIT](http://opensource.org/licenses/MIT)
+[MIT License](http://opensource.org/licenses/MIT)
+
+[Anti 996 License](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 Copyright (c) 2016 - 2019 GdeiAssistant
 
